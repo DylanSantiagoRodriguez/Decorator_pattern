@@ -1,0 +1,17 @@
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\bin\Release\net8.0-windows\NotificationDecoratorApp.exe
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\bin\Release\net8.0-windows\NotificationDecoratorApp.deps.json
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\bin\Release\net8.0-windows\NotificationDecoratorApp.runtimeconfig.json
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\bin\Release\net8.0-windows\NotificationDecoratorApp.dll
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\bin\Release\net8.0-windows\NotificationDecoratorApp.pdb
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.csproj.AssemblyReference.cache
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.AssemblyInfoInputs.cache
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.AssemblyInfo.cs
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.csproj.CoreCompileInputs.cache
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\Notifica.9C16AAB0.Up2Date
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.dll
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\refint\NotificationDecoratorApp.dll
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.pdb
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\NotificationDecoratorApp.genruntimeconfig.cache
+D:\UCC_4to_Semestre\NotoficationSystem\NotificationDecoratorApp\obj\Release\net8.0-windows\ref\NotificationDecoratorApp.dll

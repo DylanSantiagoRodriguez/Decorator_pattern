@@ -1,0 +1,6 @@
+D:\UCC_4to_Semestre\NotofitationSystem\Publicar\NotificationDecoratorApp.exe
+D:\UCC_4to_Semestre\NotofitationSystem\Publicar\NotificationDecoratorApp.dll
+D:\UCC_4to_Semestre\NotofitationSystem\Publicar\NotificationDecoratorApp.deps.json
+D:\UCC_4to_Semestre\NotofitationSystem\Publicar\NotificationDecoratorApp.runtimeconfig.json
+D:\UCC_4to_Semestre\NotofitationSystem\Publicar\NotificationDecoratorApp.pdb
+D:\UCC_4to_Semestre\NotofitationSystem\Publicar\Newtonsoft.Json.dll
